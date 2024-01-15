@@ -2,20 +2,20 @@
 
 ✨Welcome to my coding corner!
 
-💎I'm a passionate learner from Bangladesh, currently navigating the world of 🌍 web development.
+💎I'm a passionate learner from **Bangladesh**, currently navigating the world of 🌍 **web development**.
 
 
 ## About Me 👀
 
 👨‍💻 Computer Science Engineering student | 3rd semester
 
-🌐 Aspiring web developer building a career in coding
+🌐 Aspiring **web developer** building a career in coding
 
-📚 Constantly learning new languages and skills
+📚 Constantly learning **new languages and skills**
 
-🤐 Introverted but enthusiastic about coding and technology
+🤐 *Introverted* but enthusiastic about *coding* and *technology*
 
-🤲 Proud Muslim on a journey of growth and learning
+🤲 Proud **Muslim** on a journey of growth and learning
 
 
 ## Current Focus🎯
@@ -31,7 +31,7 @@ Email: mayherun41@gmail.com
 
 
 
-Feel free to explore my projects and join me on this coding journey! 🌟 May Allah bless our efforts.
+Feel free to explore my *projects* and join me on this coding journey! 🌟 May Allah bless our efforts.
 
 
 Happy coding! 🖥️✨
