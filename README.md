@@ -1,11 +1,11 @@
-#Assalamu Alaikum! 👋
+# Assalamu Alaikum! 👋
 
 ✨Welcome to my coding corner!
 
 💎I'm a passionate learner from Bangladesh, currently navigating the world of 🌍 web development.
 
 
-##About Me 👀
+## About Me 👀
 
 👨‍💻 Computer Science Engineering student | 3rd semester
 
@@ -18,12 +18,12 @@
 🤲 Proud Muslim on a journey of growth and learning
 
 
-##Current Focus🎯
+## Current Focus🎯
 
 🚀 Currently honing my skills in web development, creating a pathway to a fulfilling career.
 
 
-Connect with Me 🔍
+### Connect with Me 🔍
 
 Facebook: [Mayherun Nessa](https://www.facebook.com/mayherun)
 
