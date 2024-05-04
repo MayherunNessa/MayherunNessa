@@ -29,6 +29,8 @@ Facebook: [Mayherun Nessa](https://www.facebook.com/mayherun)
 
 Email: mayherun41@gmail.com
 
+LinkedIn: [Mayherun Nessa](https://www.linkedin.com/in/mayherun-nessa/)
+
 
 
 Feel free to explore my *projects* and join me on this coding journey! 🌟 May Allah bless our efforts.
